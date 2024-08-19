@@ -1,0 +1,69 @@
+.fotget {
+  padding-top: 101px;
+  width: 100%;
+}
+.fotget__wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+}
+.forget__suptitle {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 77px;
+}
+.SIGN {
+  color: #212121;
+  font-size: 48px;
+  font-weight: 500;
+}
+.Find {
+  color: #646464;
+  font-size: 18px;
+  font-weight: 400;
+  max-width: 647px;
+  text-align: center;
+}
+.forget__input {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form {
+  width: 772px;
+  height: 50px;
+  /* background: #212121; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forget__inp {
+  width: 90%;
+  padding: 10px;
+  height: 100%;
+  outline: none;
+  background: #eeeeee;
+  border: none;
+  border-radius: 20px 0 0 0;
+}
+.forget__btn {
+  width: 180px;
+  border: none;
+  height: 100%;
+  color: #fff;
+  background: #37806b;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 0 0 20px 0;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.forget__btn:active{
+    transform: scale(.9);
+}

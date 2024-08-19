@@ -1,0 +1,87 @@
+.Letest{
+    padding-top: 159px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background: #F8F8F8;
+    margin-top: 82px;
+    padding-bottom: 122.57px;
+}
+.Letest__wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.Letest__suptitle{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.Letest__block{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Letest__pubtitle{
+    font-size: 20px;
+    font-weight: 600;
+    color: #646464;
+}
+.Letest__bigtitle{
+    color: #212121;
+    font-size: 48px;
+    font-weight: 500;
+}
+.Letest__block{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 189.58px;
+}
+.Letest__card{
+    width: 32%;
+    padding: 40px 37px;
+    border-radius: 60px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    transition: .5s;
+
+}
+.Letest__img{
+width: 100%;
+height: 100%;
+}
+.Letest__degisn{
+    color: #212121;
+    font-size: 24px;
+    font-weight: 700;
+}
+.Letest__lorem{
+    font-size: 18px;
+    font-weight: 400;
+    color: #646464;
+}
+.Letest__text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.Letest__btn{
+    width: 230px;
+    height: 43.06px;
+    border: none;
+    background: #37806B;
+border-radius: 25px 0;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #fff;
+font-size: 18px;
+font-weight: 600;
+cursor: pointer;
+}

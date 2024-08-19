@@ -1,0 +1,39 @@
+.testominial {
+  width: 100%;
+  padding-top: 148px;
+}
+.testominial__wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 99px;
+}
+.testominial__suptitle {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+}
+.google {
+  color: #646464;
+  font-size: 15px;
+  font-weight: 500;
+}
+.TESTIMONIALS {
+  font-size: 20px;
+  font-weight: 500;
+  color: #646464;
+}
+.Client {
+  color: #212121;
+  font-size: 48px;
+  font-weight: 500;
+}
+.testominial__block {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 140px;
+}
